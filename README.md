@@ -1,243 +1,182 @@
 <div align="center">
 
-# BackEnd Developer
-## **NestJS | Node | TypeScript | PostgreSQL**
+# **Backend Engineer**
+### Java • Spring Boot • TypeScript • Node.js • NestJS
 
-<img src="https://cdn.pfps.gg/banners/5480-dark-aesthetic-anime.png" alt="Banner de Desenvolvimento" style="width: 100%; max-height: 120px; object-fit: cover; border-radius: 8px;"/>
+![Banner](https://raw.githubusercontent.com/gist/vininjr/d29bb09bd8cff42e7c1d7c2c483c6117/raw/3392f178ddfbf714217dbb3ec65ed648db3c3eb0/header.png)
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-*Transformando conhecimento técnico em aplicações funcionais e bem estruturadas*
+**Construindo APIs robustas e escaláveis com boas práticas de engenharia de software**
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🎯 Sobre Mim
 
-</div>
+Engenheiro de Software com sólida formação no **SENAC** (Desenvolvimento de Sistemas) e atualmente cursando **Engenharia de Software na Estácio**. Especializado no desenvolvimento **backend** com foco em:
 
-Sou um **Desenvolvedor Full-Stack** com formação técnica sólida em **Desenvolvimento de Sistemas (SENAC)** e cursando **Engenharia de Software (Estácio)**. 
+- **Java/Spring Boot**: APIs REST empresariais, segurança, JPA/Hibernate
+- **TypeScript/Node.js**: Aplicações performáticas com NestJS e Express
+- **Bancos de Dados**: PostgreSQL, MongoDB, otimização de queries
 
-Meu foco está no ecossistema **TypeScript/JavaScript**, construindo aplicações completas com **Node.js no backend** e **React no frontend**.
-
-Acredito em **código bem estruturado, documentação clara e colaboração eficiente**. Busco um ambiente onde possa aplicar minhas habilidades enquanto aprendo com desenvolvedores mais experientes.
+Busco oportunidades onde possa aplicar **arquitetura limpa**, **design patterns** e **código tipado** para construir sistemas robustos e de fácil manutenção.
 
 ---
 
-<div align="center">
+## 🛠 Stack Técnica
 
-## 🛠 **Stack Tecnológica Principal**
+### **Backend Principal**
 
-</div>
+| Tecnologia | Nível | Aplicações |
+|------------|-------|-------------|
+| **Java 17+** | Avançado | APIs REST, microsserviços, sistemas corporativos |
+| **Spring Boot** | Avançado | Spring Data, Security, MVC, Cloud |
+| **TypeScript** | Avançado | Tipagem estática, código escalável |
+| **Node.js** | Avançado | APIs performáticas, microsserviços |
+| **NestJS** | Intermediário | Arquitetura modular, GraphQL, WebSockets |
 
-### **Backend (Node.js/TypeScript)**
+### **Banco de Dados & ORM**
+
 ```yaml
-Runtime & Frameworks:
-  - Node.js
-  - Express.js
-  - NestJS (em aprendizado)
-  - tRPC (básico)
+SQL:
+  - PostgreSQL (principal)
+  - MySQL
+  - Query optimization
+  - Migrations (Flyway/Liquibase)
 
-Banco de Dados & ORMs:
-  - PostgreSQL
-  - MongoDB
-  - Prisma
+ORM/Frameworks:
+  - Spring Data JPA / Hibernate
+  - Prisma ORM
   - TypeORM
 
-Desenvolvimento de API:
-  - RESTful APIs
-  - Autenticação JWT
-  - WebSocket (básico)
-  - Validação com Zod
+NoSQL:
+  - MongoDB (básico)
 ```
 
-### **Frontend (TypeScript/React)**
-```yaml
-Ecossistema React/Next.js:
-  - React 18+
-  - Next.js (App Router)
-  - TypeScript
-  - Vite
+Ferramentas & DevOps
 
-Desenvolvimento UI/UX:
-  - Tailwind CSS
-  - CSS Modules
-  - Shadcn/ui (básico)
-  - Framer Motion (básico)
-
-Gerenciamento de Estado:
-  - Context API
-  - Zustand
-  - TanStack Query (aprendendo)
-```
-
-### **Ferramentas & DevOps**
-```yaml
-Ferramentas de Desenvolvimento:
-  - Git & GitHub
-  - VS Code
-  - Docker (básico)
-  - Insomnia / Postman
-
-Deploy & Cloud:
-  - Vercel
-  - Railway
-  - Render
-
-Qualidade de Código:
-  - ESLint / Prettier
-  - TypeScript strict mode
-  - Husky / lint-staged
-```
+· Controle de versão: Git, GitHub Flow
+· Testes: JUnit, Mockito, Jest (aprendendo)
+· Containers: Docker, Docker Compose (básico)
+· Cloud: AWS (EC2, RDS), Railway, Render
+· Monitoramento: Logging, Actuator (Spring)
 
 ---
 
-<div align="center">
+📁 Projetos em Destaque
 
-## 📁 **Projetos em Destaque**
+API Bancária - Java/Spring Boot
 
-</div>
+Java 17 • Spring Boot 3 • Spring Security • JWT • PostgreSQL
 
-### **Sistema de Gestão Acadêmica**
-**Stack:** Node.js + Express + React + PostgreSQL + Prisma
-- API REST completa com autenticação JWT e controle de acesso
-- Dashboard administrativo com relatórios e gráficos
-- Sistema de matrículas, notas e frequência
-- 100% tipado com TypeScript
-- [🔗 Ver Repositório](https://github.com/seuusuario/sistema-academico)
+· Implementação de transferências, saques e extratos com controle transacional
+· Autenticação com JWT e roles (USER/ADMIN)
+· Documentação com SpringDoc OpenAPI (Swagger)
+· Validações com Bean Validation e exception handlers
+· 🔗 Ver repositório
 
-### **E-commerce Moderno**
-**Stack:** Next.js 14 + TypeScript + Tailwind + Stripe
-- App Router com Server Components e Server Actions
-- Carrinho de compras com persistência no localStorage
-- Integração com API de pagamentos (modo sandbox)
-- Design responsivo seguindo boas práticas de UX
-- [🔗 Ver Repositório](https://github.com/seuusuario/ecommerce-next)
+E-commerce Platform - NestJS
 
-### **API de Blog com Arquitetura Modular**
-**Stack:** NestJS + PostgreSQL + Swagger + Redis
-- Arquitetura limpa com controllers, services e repositories
-- Documentação automática com Swagger UI
-- Sistema de comentários aninhados e votos
-- Cache com Redis para melhor performance
-- [🔗 Ver Repositório](https://github.com/seuusuario/blog-api-nest)
+NestJS • TypeScript • Prisma • PostgreSQL • Redis
+
+· Arquitetura modular (Controllers, Services, Repositories)
+· Cache de produtos com Redis (TTL estratégico)
+· Sistema de pedidos com relacionamentos complexos
+· Rate limiting e validação com class-validator
+· 🔗 Ver repositório
+
+TaskFlow - API de Gerenciamento
+
+Node.js • Express • TypeScript • Prisma • JWT
+
+· Sistema completo de tarefas com hierarquia (workspace → projects → tasks)
+· Middlewares de autenticação e autorização
+· Filtros avançados e paginação
+· Testes de integração (Jest/Supertest)
+· 🔗 Ver repositório
 
 ---
 
-<div align="center">
+💻 Código com Qualidade
 
-## 🏗 **Como Trabalho**
-
-</div>
-
-### **Princípios de Desenvolvimento**
-- **Código Tipado**: TypeScript em todos os projetos novos
-- **Clean Code**: Nomes significativos, funções pequenas, responsabilidade única
-- **Documentação**: README claro, comentários onde necessário
-- **Versionamento**: Commits semânticos, branches organizadas
-
-### **Exemplo de Abordagem**
 ```typescript
-// Minha filosofia em código:
-interface DevelopmentApproach {
-  readonly: true;           // Código legível
-  maintainable: true;       // Fácil de modificar
-  stronglyTyped: true;      // TypeScript everywhere
-  tested: 'learning';       // Estudando testes
-  documented: true;         // Bem explicado
-}
+// Exemplo prático do meu estilo de código (NestJS)
 
-// Implementação prática:
-async function registerUser(userData: UserRegistrationDto) {
-  // 1. Validação estrita
-  const validated = await registrationSchema.parseAsync(userData);
-  
-  // 2. Lógica de negócio clara
-  const hashedPassword = await bcrypt.hash(validated.password, 10);
-  
-  // 3. Operação no banco com transação
-  const user = await prisma.$transaction(async (tx) => {
-    return await tx.user.create({
-      data: {
-        email: validated.email,
-        password: hashedPassword,
-        profile: {
-          create: {
-            name: validated.name,
-          },
-        },
-      },
+@Controller('users')
+@UseGuards(JwtAuthGuard)
+@ApiTags('users')
+export class UsersController {
+  constructor(
+    @Inject(USER_SERVICE) private readonly userService: IUserService,
+    private readonly logger: Logger,
+  ) {}
+
+  @Get(':id')
+  @ApiOperation({ summary: 'Get user by ID' })
+  async findById(@Param('id', ParseIntPipe) id: number): Promise<UserResponseDto> {
+    this.logger.log(`Fetching user ${id}`);
+    
+    const user = await this.userService.findById(id);
+    if (!user) {
+      throw new NotFoundException(`User ${id} not found`);
+    }
+    
+    return plainToInstance(UserResponseDto, user, {
+      excludeExtraneousValues: true,
     });
-  });
-  
-  // 4. Retorno tipado e seguro
-  return exclude(user, ['password']);
+  }
+}
+```
+
+```java
+// Java/Spring Boot - Mesmo padrão de qualidade
+
+@RestController
+@RequestMapping("/api/users")
+@RequiredArgsConstructor
+public class UserController {
+    
+    private final UserService userService;
+    private final UserMapper mapper;
+    
+    @GetMapping("/{id}")
+    @PreAuthorize("hasRole('USER')")
+    public ResponseEntity<UserResponse> findById(@PathVariable Long id) {
+        return userService.findById(id)
+            .map(mapper::toResponse)
+            .map(ResponseEntity::ok)
+            .orElseThrow(() -> new ResponseStatusException(NOT_FOUND));
+    }
 }
 ```
 
 ---
 
+📊 GitHub Analytics
+
 <div align="center">
-
-## 📚 **Aprendizado Contínuo**
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arch-Ghostman&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arch-Ghostman&layout=compact&langs_count=7&theme=dark&hide=html,css"/>
 </div>
-
-### **Foco Atual**
-```yaml
-Consolidando:
-  - TypeScript Advanced Types
-  - Next.js App Router
-  - PostgreSQL Performance
-  - API Design Patterns
-
-Aprendendo:
-  - Testes Automatizados (Jest, RTL)
-  - Docker & Containerização
-  - GraphQL Fundamentals
-  - CI/CD Básico
-
-Interesses:
-  - Clean Architecture
-  - Message Queues (Redis)
-  - Monitoring & Observability
-  - Serverless Functions
-```
 
 ---
 
-<div align="center">
+📫 Vamos conversar?
 
-## 🎓 **Formação Acadêmica**
-
-</div>
-
-- **Engenharia de Software** - Estácio *(Cursando)*
-- **Tecnólogo em Desenvolvimento de Sistemas** - SENAC *(Concluído)*
-- **Técnico em Informática para Internet** - SENAC *(Cursando)*
-
----
+Estou aberto a oportunidades como Desenvolvedor Backend Júnior/Pleno ou estágios avançados onde possa aplicar minha stack Java/Spring e TypeScript/Node em projetos reais.
 
 <div align="center">
 
-## 📞 **Entre em Contato**
-
-</div>
-
-Estou buscando oportunidades como **Desenvolvedor Full-Stack** onde possa contribuir com minhas habilidades técnicas enquanto continuo aprendendo e crescendo profissionalmente.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-robertosilva.rc42@gmail.com-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robertosilva.rc42@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertosilva42/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arch-Ghostman)
+https://img.shields.io/badge/Email-robertosilva.rc42@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-Roberto_Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/GitHub-Arch--Ghostman-100000?style=for-the-badge&logo=github&logoColor=white
 
 </div>
 
@@ -245,9 +184,9 @@ Estou buscando oportunidades como **Desenvolvedor Full-Stack** onde possa contri
 
 <div align="center">
 
-*"Entendo que ainda tenho muito a aprender, mas sei o suficiente para construir coisas que funcionam e agregam valor."*
+"Código é a ponte entre problemas de negócio e soluções técnicas. Faço questão de construir pontes sólidas."
+
+⭐ Total de repositórios públicos: 20+
+🔥 Commits em 2024: 300+
 
 </div>
-```
-
----
