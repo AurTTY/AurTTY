@@ -94,7 +94,6 @@ Java • Spring Boot • TypeScript • NestJS • PostgreSQL
 · Módulos: WMS, ERP, estoque, faturamento, fiscal
 · APIs de integração com TOTVS Protheus e RM
 · Atualmente em operação com usuários reais
-· [🔗 Ver repositório privado - disponível sob demanda]
 
 API de Integração TOTVS Protheus → WMS
 
@@ -167,33 +166,10 @@ export class PickingOptimizerService {
 
 ---
 
-📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arch-Ghostman&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arch-Ghostman&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
 🎓 Formação Acadêmica
 
 · Ciência da Computação - (Concluído)
 · Engenharia da Produção - (Cursando)
-
----
-
-📫 Vamos conversar?
-
-Especialista em integrar operação logística com tecnologia. Se você precisa de soluções para conectar ERPs (especialmente TOTVS), WMS, TMS ou automatizar processos logísticos, vamos conversar.
-
-<div align="center">
-
-https://img.shields.io/badge/Email-seuemail@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/LinkedIn-Seu_Nome-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-Arch--Ghostman-100000?style=for-the-badge&logo=github&logoColor=white
-
-</div>
 
 ---
 
@@ -202,7 +178,7 @@ https://img.shields.io/badge/GitHub-Arch--Ghostman-100000?style=for-the-badge&lo
 "Não construo apenas software. Construo pontes entre a operação que vivi e a tecnologia que domino."
 
 ⭐ BuildFlow System - Em operação
-🚚 +X anos de experiência em logística
-📦 Especialista WMS | ERP | TOTVS
+🚚 Especialista em logística operacional
+📦 WMS | ERP | TOTVS
 
 </div>
